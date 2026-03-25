@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="hero.png" alt="GunZap Hero" width="100%">
+  <img src="logo_gunzap_gh.png" alt="GunZap Hero" width="100%">
   
   # 🚀 GunZap - Automação Digital e Escala no WhatsApp
   
